@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "torreTest"
+    }
+  },
+  "defaultProject": "torreTest",
+  "cli": {
+    "analytics": "a35cacba-f6df-431b-ac52-953d666f7d01"
+  }
 }
